@@ -1,0 +1,9 @@
+PILLOW
+genson
+jsonschema
+requests
+tensorflow
+chess
+matplotlib
+numpy
+chess
